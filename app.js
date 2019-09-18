@@ -1,5 +1,2 @@
-if (condition) {
-    
-} else {
-    
-}
+console.log("Hola Mundo");
+
